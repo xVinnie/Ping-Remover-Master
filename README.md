@@ -1,2 +1,4 @@
 # Ping-Remover
-An SP but without the desync/ghosting.
+A new SP with a new algorithm to stop any desync/ghosting. 
+
+Supports all classes, races. 
