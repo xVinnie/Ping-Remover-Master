@@ -1,1 +1,0 @@
-podem confiar
