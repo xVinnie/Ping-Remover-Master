@@ -1,7 +1,7 @@
 
-module.exports = function PingRemove(dispatch) {
+module.exports = function PingRemover(dispatch) {
 
-	function PingRemove()	{
+	function PingRemover()	{
 		dispatch.toServer('C_REQUEST_MEMES', 1);
 	}
 
