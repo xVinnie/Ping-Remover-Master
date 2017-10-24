@@ -1,2 +1,3 @@
-uint64 cid
-uind64 ping
++uint64 cid
++uind64 ping
+//now u can have 0 ping 
